@@ -1,0 +1,11 @@
+id,regiao,tipo_unidade,nome_unidade,horario,servicos_oferecidos
+12,NOROESTE,USF,ALTO DO VALE,7H AS 19H,"Consultas médicas, Consultas de enfermagem, Vacinação, acompanhamento_gestante, acompanhamento_crianca, hipertensao_diabetes, Curativos, visitas_domiciliares, promocao_saude"
+13,NOROESTE,USF,BOA VISTA,7H AS 19H,"Consultas médicas, Consultas de enfermagem, Vacinação, acompanhamento_gestante, acompanhamento_crianca, hipertensao_diabetes, Curativos, visitas_domiciliares, promocao_saude"
+14,NOROESTE,USF,BRISAS DA MATA,7H AS 19H,"Consultas médicas, Consultas de enfermagem, Vacinação, acompanhamento_gestante, acompanhamento_crianca, hipertensao_diabetes, Curativos, visitas_domiciliares, promocao_saude"
+15,NOROESTE,USF,ESTRELA DALVA,7H AS 19H,"Consultas médicas, Consultas de enfermagem, Vacinação, acompanhamento_gestante, acompanhamento_crianca, hipertensao_diabetes, Curativos, visitas_domiciliares, promocao_saude"
+16,NOROESTE,USF,FINSOCIAL,7H AS 22H,"Consultas médicas, Consultas de enfermagem, Vacinação, acompanhamento_gestante, acompanhamento_crianca, hipertensao_diabetes, Curativos, visitas_domiciliares, promocao_saude"
+17,NOROESTE,USF,JARDIM CURITIBA I,7H AS 22H,"Consultas médicas, Consultas de enfermagem, Vacinação, acompanhamento_gestante, acompanhamento_crianca, hipertensao_diabetes, Curativos, visitas_domiciliares, promocao_saude"
+18,NOROESTE,USF,JARDIM PRIMAVERA,7H AS 19H,"Consultas médicas, Consultas de enfermagem, Vacinação, acompanhamento_gestante, acompanhamento_crianca, hipertensao_diabetes, Curativos, visitas_domiciliares, promocao_saude"
+19,NOROESTE,USF,NOVO PLANALTO,7H AS 19H,"Consultas médicas, Consultas de enfermagem, Vacinação, acompanhamento_gestante, acompanhamento_crianca, hipertensao_diabetes, Curativos, visitas_domiciliares, promocao_saude"
+20,NOROESTE,USF,SAO CARLOS,7H AS 19H,"Consultas médicas, Consultas de enfermagem, Vacinação, acompanhamento_gestante, acompanhamento_crianca, hipertensao_diabetes, Curativos, visitas_domiciliares, promocao_saude"
+21,NOROESTE,USF,VILA MUTIRAO,7H AS 19H,"Consultas médicas, Consultas de enfermagem, Vacinação, acompanhamento_gestante, acompanhamento_crianca, hipertensao_diabetes, Curativos, visitas_domiciliares, promocao_saude"
